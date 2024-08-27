@@ -1,0 +1,25 @@
+* fe1b4fd feature1, feature 2 wip
+*   d84ff70 merge branch hotfix1 into develop
+|\  
+* \   05171bb merge release 1 into develop
+|\ \  
+| | | *   cf4c765 merge branch hotfix1
+| | | |\  
+| | | |/  
+| | |/|   
+| | * | 64077a2 fix feature 1 with bug Y
+| | |/  
+| | *   bcbc51f merge branch release1
+| | |\  
+| | |/  
+| |/|   
+| * | 115d544 fix feature 1 bugX
+|/ /  
+* |   417d985 Merge feature 1 into develop
+|\ \  
+| * | de3ba65 feature 1 with 2 bugs
+| * | ae858a8 feature 1 wip
+|/ /  
+* / aa2d060 add fileA.txt
+|/  
+* 80131ba add README.md
